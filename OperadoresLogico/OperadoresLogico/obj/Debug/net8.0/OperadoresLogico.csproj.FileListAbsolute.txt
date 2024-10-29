@@ -1,0 +1,14 @@
+C:\csharp\Estudo\OperadoresLogico\OperadoresLogico\bin\Debug\net8.0\OperadoresLogico.exe
+C:\csharp\Estudo\OperadoresLogico\OperadoresLogico\bin\Debug\net8.0\OperadoresLogico.deps.json
+C:\csharp\Estudo\OperadoresLogico\OperadoresLogico\bin\Debug\net8.0\OperadoresLogico.runtimeconfig.json
+C:\csharp\Estudo\OperadoresLogico\OperadoresLogico\bin\Debug\net8.0\OperadoresLogico.dll
+C:\csharp\Estudo\OperadoresLogico\OperadoresLogico\bin\Debug\net8.0\OperadoresLogico.pdb
+C:\csharp\Estudo\OperadoresLogico\OperadoresLogico\obj\Debug\net8.0\OperadoresLogico.GeneratedMSBuildEditorConfig.editorconfig
+C:\csharp\Estudo\OperadoresLogico\OperadoresLogico\obj\Debug\net8.0\OperadoresLogico.AssemblyInfoInputs.cache
+C:\csharp\Estudo\OperadoresLogico\OperadoresLogico\obj\Debug\net8.0\OperadoresLogico.AssemblyInfo.cs
+C:\csharp\Estudo\OperadoresLogico\OperadoresLogico\obj\Debug\net8.0\OperadoresLogico.csproj.CoreCompileInputs.cache
+C:\csharp\Estudo\OperadoresLogico\OperadoresLogico\obj\Debug\net8.0\OperadoresLogico.dll
+C:\csharp\Estudo\OperadoresLogico\OperadoresLogico\obj\Debug\net8.0\refint\OperadoresLogico.dll
+C:\csharp\Estudo\OperadoresLogico\OperadoresLogico\obj\Debug\net8.0\OperadoresLogico.pdb
+C:\csharp\Estudo\OperadoresLogico\OperadoresLogico\obj\Debug\net8.0\OperadoresLogico.genruntimeconfig.cache
+C:\csharp\Estudo\OperadoresLogico\OperadoresLogico\obj\Debug\net8.0\ref\OperadoresLogico.dll
