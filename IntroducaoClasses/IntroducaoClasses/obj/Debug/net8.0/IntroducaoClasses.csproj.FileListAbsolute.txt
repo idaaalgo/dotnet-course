@@ -1,0 +1,14 @@
+C:\csharp\Estudo\IntroducaoClasses\IntroducaoClasses\obj\Debug\net8.0\IntroducaoClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\csharp\Estudo\IntroducaoClasses\IntroducaoClasses\obj\Debug\net8.0\IntroducaoClasses.AssemblyInfoInputs.cache
+C:\csharp\Estudo\IntroducaoClasses\IntroducaoClasses\obj\Debug\net8.0\IntroducaoClasses.AssemblyInfo.cs
+C:\csharp\Estudo\IntroducaoClasses\IntroducaoClasses\obj\Debug\net8.0\IntroducaoClasses.csproj.CoreCompileInputs.cache
+C:\csharp\Estudo\IntroducaoClasses\IntroducaoClasses\bin\Debug\net8.0\IntroducaoClasses.exe
+C:\csharp\Estudo\IntroducaoClasses\IntroducaoClasses\bin\Debug\net8.0\IntroducaoClasses.deps.json
+C:\csharp\Estudo\IntroducaoClasses\IntroducaoClasses\bin\Debug\net8.0\IntroducaoClasses.runtimeconfig.json
+C:\csharp\Estudo\IntroducaoClasses\IntroducaoClasses\bin\Debug\net8.0\IntroducaoClasses.dll
+C:\csharp\Estudo\IntroducaoClasses\IntroducaoClasses\bin\Debug\net8.0\IntroducaoClasses.pdb
+C:\csharp\Estudo\IntroducaoClasses\IntroducaoClasses\obj\Debug\net8.0\IntroducaoClasses.dll
+C:\csharp\Estudo\IntroducaoClasses\IntroducaoClasses\obj\Debug\net8.0\refint\IntroducaoClasses.dll
+C:\csharp\Estudo\IntroducaoClasses\IntroducaoClasses\obj\Debug\net8.0\IntroducaoClasses.pdb
+C:\csharp\Estudo\IntroducaoClasses\IntroducaoClasses\obj\Debug\net8.0\IntroducaoClasses.genruntimeconfig.cache
+C:\csharp\Estudo\IntroducaoClasses\IntroducaoClasses\obj\Debug\net8.0\ref\IntroducaoClasses.dll

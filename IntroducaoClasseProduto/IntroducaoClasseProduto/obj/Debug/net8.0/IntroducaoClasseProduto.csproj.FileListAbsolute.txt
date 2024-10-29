@@ -1,0 +1,14 @@
+C:\csharp\Estudo\IntroducaoClasseProduto\IntroducaoClasseProduto\bin\Debug\net8.0\IntroducaoClasseProduto.exe
+C:\csharp\Estudo\IntroducaoClasseProduto\IntroducaoClasseProduto\bin\Debug\net8.0\IntroducaoClasseProduto.deps.json
+C:\csharp\Estudo\IntroducaoClasseProduto\IntroducaoClasseProduto\bin\Debug\net8.0\IntroducaoClasseProduto.runtimeconfig.json
+C:\csharp\Estudo\IntroducaoClasseProduto\IntroducaoClasseProduto\bin\Debug\net8.0\IntroducaoClasseProduto.dll
+C:\csharp\Estudo\IntroducaoClasseProduto\IntroducaoClasseProduto\bin\Debug\net8.0\IntroducaoClasseProduto.pdb
+C:\csharp\Estudo\IntroducaoClasseProduto\IntroducaoClasseProduto\obj\Debug\net8.0\IntroducaoClasseProduto.GeneratedMSBuildEditorConfig.editorconfig
+C:\csharp\Estudo\IntroducaoClasseProduto\IntroducaoClasseProduto\obj\Debug\net8.0\IntroducaoClasseProduto.AssemblyInfoInputs.cache
+C:\csharp\Estudo\IntroducaoClasseProduto\IntroducaoClasseProduto\obj\Debug\net8.0\IntroducaoClasseProduto.AssemblyInfo.cs
+C:\csharp\Estudo\IntroducaoClasseProduto\IntroducaoClasseProduto\obj\Debug\net8.0\IntroducaoClasseProduto.csproj.CoreCompileInputs.cache
+C:\csharp\Estudo\IntroducaoClasseProduto\IntroducaoClasseProduto\obj\Debug\net8.0\IntroducaoClasseProduto.dll
+C:\csharp\Estudo\IntroducaoClasseProduto\IntroducaoClasseProduto\obj\Debug\net8.0\refint\IntroducaoClasseProduto.dll
+C:\csharp\Estudo\IntroducaoClasseProduto\IntroducaoClasseProduto\obj\Debug\net8.0\IntroducaoClasseProduto.pdb
+C:\csharp\Estudo\IntroducaoClasseProduto\IntroducaoClasseProduto\obj\Debug\net8.0\IntroducaoClasseProduto.genruntimeconfig.cache
+C:\csharp\Estudo\IntroducaoClasseProduto\IntroducaoClasseProduto\obj\Debug\net8.0\ref\IntroducaoClasseProduto.dll
