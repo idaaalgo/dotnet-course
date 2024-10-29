@@ -1,0 +1,14 @@
+C:\csharp\Exercicios\ClassesAtributosMetodos\ClassesAtributosMetodos\obj\Debug\net8.0\ClassesAtributosMetodos.GeneratedMSBuildEditorConfig.editorconfig
+C:\csharp\Exercicios\ClassesAtributosMetodos\ClassesAtributosMetodos\obj\Debug\net8.0\ClassesAtributosMetodos.AssemblyInfoInputs.cache
+C:\csharp\Exercicios\ClassesAtributosMetodos\ClassesAtributosMetodos\obj\Debug\net8.0\ClassesAtributosMetodos.AssemblyInfo.cs
+C:\csharp\Exercicios\ClassesAtributosMetodos\ClassesAtributosMetodos\obj\Debug\net8.0\ClassesAtributosMetodos.csproj.CoreCompileInputs.cache
+C:\csharp\Exercicios\ClassesAtributosMetodos\ClassesAtributosMetodos\bin\Debug\net8.0\ClassesAtributosMetodos.exe
+C:\csharp\Exercicios\ClassesAtributosMetodos\ClassesAtributosMetodos\bin\Debug\net8.0\ClassesAtributosMetodos.deps.json
+C:\csharp\Exercicios\ClassesAtributosMetodos\ClassesAtributosMetodos\bin\Debug\net8.0\ClassesAtributosMetodos.runtimeconfig.json
+C:\csharp\Exercicios\ClassesAtributosMetodos\ClassesAtributosMetodos\bin\Debug\net8.0\ClassesAtributosMetodos.dll
+C:\csharp\Exercicios\ClassesAtributosMetodos\ClassesAtributosMetodos\bin\Debug\net8.0\ClassesAtributosMetodos.pdb
+C:\csharp\Exercicios\ClassesAtributosMetodos\ClassesAtributosMetodos\obj\Debug\net8.0\ClassesAtributosMetodos.dll
+C:\csharp\Exercicios\ClassesAtributosMetodos\ClassesAtributosMetodos\obj\Debug\net8.0\refint\ClassesAtributosMetodos.dll
+C:\csharp\Exercicios\ClassesAtributosMetodos\ClassesAtributosMetodos\obj\Debug\net8.0\ClassesAtributosMetodos.pdb
+C:\csharp\Exercicios\ClassesAtributosMetodos\ClassesAtributosMetodos\obj\Debug\net8.0\ClassesAtributosMetodos.genruntimeconfig.cache
+C:\csharp\Exercicios\ClassesAtributosMetodos\ClassesAtributosMetodos\obj\Debug\net8.0\ref\ClassesAtributosMetodos.dll
